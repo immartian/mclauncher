@@ -1,0 +1,16 @@
+{
+  "name": "mclauncher",
+  "description": "Launching MC blockchain",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.8.0",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1",
+    "routes": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+  }
+}
